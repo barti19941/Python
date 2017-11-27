@@ -1,0 +1,10 @@
+#!/home/dbartosiak/Pulpit/Projekt_Python/projekt_env/bin/python2.7
+# PBR Generated from u'console_scripts'
+
+import sys
+
+from pyscaffold.cli import run
+
+
+if __name__ == "__main__":
+    sys.exit(run())
